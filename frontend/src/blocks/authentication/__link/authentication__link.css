@@ -1,0 +1,12 @@
+.authentication__link {
+    display: block;
+    margin-top: 15px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.authentication__link:hover {
+    opacity: 0.6;
+}

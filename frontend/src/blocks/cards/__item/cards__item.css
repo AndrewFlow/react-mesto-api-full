@@ -1,0 +1,15 @@
+.cards__item {
+  list-style: none;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 282px;
+  min-height: 361px;
+  border: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}

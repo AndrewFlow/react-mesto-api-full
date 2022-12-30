@@ -1,0 +1,16 @@
+.header__userinfo {
+    padding-right: 24px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    background-color: black;
+    cursor: pointer;
+}
+
+.header__userinfo:hover {
+    color: #A9A9A9;
+}

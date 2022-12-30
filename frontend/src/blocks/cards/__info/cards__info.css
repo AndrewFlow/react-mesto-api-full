@@ -1,0 +1,9 @@
+.cards__info {
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 20px;
+  background-color: #fff;
+  align-items: center;
+
+}

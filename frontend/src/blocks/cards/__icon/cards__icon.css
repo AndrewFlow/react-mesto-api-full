@@ -1,0 +1,23 @@
+.cards__icon {
+  width: 22px;
+  height: 19px;
+  background-image: url(../../../images/like.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 0;
+  background-color: transparent;
+  padding: 0;
+  background-position: 50% 50%;
+  cursor: pointer;
+  transition: all 0.1s ease-in-out;
+  margin: 0;
+}
+
+.cards__icon:hover {
+  opacity: 0.5;
+
+}
+
+.cards__icon:active {
+  transition: all 0.1s ease-in-out;
+}
