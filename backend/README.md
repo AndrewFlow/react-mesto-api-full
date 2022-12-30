@@ -21,7 +21,7 @@
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
 
-IP  51.250.102.3
+Public IP  51.250.102.3
 #
 Frontend  https://yandexpr15.nomoredomains.club
 #
