@@ -5,8 +5,6 @@
 [![Tests for sprint 14](https://github.com/${AndrewFlow}/${react-mesto-api-full}/actions/workflows/tests-14-sprint.yml/badge.svg)](https://github.com/${AndrewFlow}/${react-mesto-api-full}/actions/workflows/tests-14-sprint.yml)
 # Проект Mesto фронтенд + бэкенд
 
-Ссылка на проект https://github.com/AndrewFlow/express-mesto-gha
-
 
 ## Директории
 
